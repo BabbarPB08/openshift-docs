@@ -22,7 +22,7 @@ To install {product-title} on user-provisioned infrastructure on VMware vSphere,
 +
 . Save the following secondary Ignition config file for your bootstrap node to your computer as `<installation_directory>/merge-bootstrap.ign`:
 +
-[source,text]
+[source,terminal]
 ----
 {
   "ignition": {
